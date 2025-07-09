@@ -1,2 +1,1 @@
-# TPUTestnetToolkitToolkitUltra
-Advanced TPUTestnetToolkitToolkitUltra project
+.
