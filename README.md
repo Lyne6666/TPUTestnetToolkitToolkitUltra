@@ -6,23 +6,29 @@ Advanced TPUTestnetToolkitToolkitUltra project
 
 ## Features
 
-- Advanced TPUTestnetToolkitToolkitUltra processing with optimized algorithms
-- Real-time TPUTestnetToolkitToolkitUltra monitoring using efficient data structures
-- Secure TPUTestnetToolkitToolkitUltra encryption with industry-standard protocols
-- Scalable TPUTestnetToolkitToolkitUltra architecture with load balancing
-- Intelligent TPUTestnetToolkitToolkitUltra pattern recognition using ML techniques
-- Modular design for easy extension and customization
-- Comprehensive API documentation with examples
-- Built-in performance metrics and analytics
+- **Advanced Processing**: Advanced TPUTestnetToolkitToolkitUltra processing with optimized algorithms
+- **Real-time Monitoring**: Real-time TPUTestnetToolkitToolkitUltra monitoring using efficient data structures
+- **Secure Encryption**: Secure TPUTestnetToolkitToolkitUltra encryption with industry-standard protocols
+- **Scalable Architecture**: Scalable TPUTestnetToolkitToolkitUltra architecture with load balancing
+- **Intelligent Pattern Recognition**: Intelligent TPUTestnetToolkitToolkitUltra pattern recognition using ML techniques
+- **Modular Design**: Modular design for easy extension and customization
+- **API Documentation**: Comprehensive API documentation with examples
+- **Performance Metrics**: Built-in performance metrics and analytics
+
 ## Installation
 
 ```bash
+# Clone the repository using Git
+git clone https://github.com/Lyne6666/TPUTestnetToolkitToolkitUltra.git
+
+# Install the package using pip
 pip install git+https://github.com/Lyne6666/TPUTestnetToolkitToolkitUltra.git
 ```
 
 ## Usage
 
 ```bash
+# Run the application with verbose mode
 python -m tputestnettoolkittoolkitultra --verbose
 ```
 
